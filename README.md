@@ -1,2 +1,2 @@
-# ai_agent_vann
-Agent som henter vann- og avløpspriser
+# ai_agent_tariffer
+Agent som henter tariff priser
